@@ -20,7 +20,7 @@ int main(){
 	
 	cin>>rm1;
 	
-	cout<< "How many small rooms would you like cleaned ?  ";
+	cout<< "How many Large rooms would you like cleaned ?  ";
 	
 	cin>>rm2;
 	
