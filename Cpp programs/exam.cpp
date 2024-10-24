@@ -16,6 +16,7 @@ int main(){
 	cin>>c;
 	
 	
+	//  swaping without using extra veriable
 	
 	a = a*b*c;
 	b = a/(b*c);
