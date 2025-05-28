@@ -9,4 +9,3 @@ i writed in First Year of College
 
 - A bit about what you learned (e.g., variables, loops, how compilers work, etc.).
 
-- Any future plans or what you want people to know when they visit the repo.
